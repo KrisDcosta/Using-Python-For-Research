@@ -13,8 +13,7 @@ The course covers essential Python skills and libraries widely used in research.
 
 ## Repository Structure
 This repository is organized as follows:
-- **`Case Study/`**: Jupyter notebooks covering different sections and exercises from the course.
-- **`Exercises/`**: Practice exercises and solutions for each topic.
+- **`Week_X_Topic/`**: Jupyter notebooks covering different sections and exercises from the course week wise.
 
 ## Acknowledgments
 This work is based on the **"Using Python for Research"** course by Harvard University on EdX.
